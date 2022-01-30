@@ -4,7 +4,7 @@
  * This is a microservice that is used in the Pluralsight path on Serverless
  * architecture.
  *
- * @author Pierre Krzisch <david@mindmill.co>
+ * @author Pierre Krzisch <pekrzisch.pek@gmail.com>
  */
 
 import { AWSClients } from '../common';
@@ -17,7 +17,7 @@ const emailAddress = process.env.EMAIL_ADDRESS;
 const sendEmail = async (message, subject) => {
   const params = {
     Destination: {
-      ToAddresses: emailAddress,
+      ToAddresses: [emailAddress],
     },
     Message: {
       Body: {

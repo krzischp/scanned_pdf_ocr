@@ -1,7 +1,7 @@
 /*
 
   Pluralsight Serverless Development Path (https://tuck.cc/serverlessDev)
-  Author: Pierre Krzisch (davidtucker.net)
+  Author: Pierre Krzisch (pekrzisch.pek@gmail.com)
 
   ---
 

@@ -4,7 +4,7 @@
  * This is a microservice that is used in the Pluralsight path on Serverless
  * architecture.
  *
- * @author Pierre Krzisch <david@mindmill.co>
+ * @author Pierre Krzisch <pekrzisch.pek@gmail.com>
  */
 
 import path from 'path';
