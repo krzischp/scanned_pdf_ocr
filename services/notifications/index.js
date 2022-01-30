@@ -4,7 +4,7 @@
  * This is a microservice that is used in the Pluralsight path on Serverless
  * architecture.
  *
- * @author David Tucker <david@mindmill.co>
+ * @author Pierre Krzisch <david@mindmill.co>
  */
 
 import { AWSClients } from '../common';
