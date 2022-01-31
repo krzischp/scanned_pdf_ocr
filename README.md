@@ -1,5 +1,7 @@
 # Scanned PDF OCR and NLP
 
+OCRing legal docs PDF and automating information extraction tasks.  
+
 [Learning Path on Pluralsight](https://pluralsight.pxf.io/OReqan)
 
 This repository is for the Serverless Development on AWS learning path for Pluralsight. 
