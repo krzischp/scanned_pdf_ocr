@@ -1,6 +1,7 @@
 # Scanned PDF OCR and NLP
 
 OCRing legal docs PDF and automating information extraction tasks.  
+Modern full-stack serverless application on AWS.  
 
 [Learning Path on Pluralsight](https://pluralsight.pxf.io/OReqan)
 
