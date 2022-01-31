@@ -1,4 +1,4 @@
-# Serverless Development on AWS
+# Scanned PDF OCR and NLP
 
 [Learning Path on Pluralsight](https://pluralsight.pxf.io/OReqan)
 
