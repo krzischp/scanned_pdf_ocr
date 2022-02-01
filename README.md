@@ -4,8 +4,6 @@ OCRing legal docs PDF and automating information extraction tasks.
 
 [Learning Path on Pluralsight](https://pluralsight.pxf.io/OReqan)
 
-This repository is for the Serverless Development on AWS learning path for Pluralsight. 
-
 ## Approach
 
 This learning path is focused on creating a modern full-stack serverless application on AWS using real world techniques and approaches.  It follows the following opinionated concepts:
