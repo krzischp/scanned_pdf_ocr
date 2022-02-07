@@ -25,7 +25,7 @@ const getTextDetectionResults = async (event, nextToken = null) => {
     if (data.NextToken) {
       // Delay 1 second to avoid exceeding provisioned rate for Textract
       await new Promise(r => setTimeout(r, 1000));
-      const { outputText: nextText } = await getTextDetectionResults(event, data.NextToken);
+      const { textOutput: nextText } = await getTextDetectionResults(event, data.NextToken);
       if (nextText) {
         textOutput += ` ${nextText}`;
       }
