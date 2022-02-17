@@ -27,6 +27,8 @@ const getTextDetectionResults = async (event, nextToken = null) => {
       await new Promise(r => setTimeout(r, 1000));
       const { textOutput: nextText } = await getTextDetectionResults(event, data.NextToken);
       if (nextText) {
+        // TODO: add @Page_i
+        // i: new arg of the rec function that we increment each time we pass it to the next rec call
         textOutput += ` ${nextText}`;
       }
     }
